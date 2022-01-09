@@ -1,0 +1,10 @@
+Django
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+markdown
+django-filter
+gerencianet
+requests
+sqlparse
+djoser

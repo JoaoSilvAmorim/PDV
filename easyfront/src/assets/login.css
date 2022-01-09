@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background:url('login-bg.png') no-repeat center #63439A;
+}
+
+
+
+/* New Items */
+.errorlist{
+  background-color: #fef0f0;
+  color: #f56c6c;
+  padding: 20px 60px;
+  border-radius: 10px;
+}
+.errorlist li .errorlist{
+  padding:5px;
+}
+
+.login-title {
+    font-weight: 700;
+    font-size: 30px;
+    color: #545454;
+}
+
+
+
+/* Modify css  */
+.el-header, .el-footer {
+    /* background-color: #B3C0D1; */
+    color: #fff;
+    text-align: center;
+    line-height: 60px;
+}
+.el-form-item__label {
+    color: #ccc;
+}
+.el-input__inner{
+    height: 50px;
+}
+.el-button--primary{
+    background-color: #5e3c97;
+    border-color: #5e3c97;
+}
+
+.el-button--primary:hover {
+    background-color: #4a2d7c;
+    border-color: #4a2d7c;
+}
